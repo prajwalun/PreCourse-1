@@ -1,3 +1,6 @@
+# TC: O(1) for all operations
+# SC: O(n) where n is the number of elements in the stack
+
 class myStack:
   #Please read sample.java file before starting.
   #Kindly include Time and Space complexity at top of each file

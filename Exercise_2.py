@@ -1,4 +1,5 @@
-
+#TC: O(1) for push and pop
+#SC: O(n) where n is the number of elements in the stack
 class Node:
     def __init__(self, data):
        self.data = data

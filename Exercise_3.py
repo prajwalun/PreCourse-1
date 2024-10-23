@@ -1,3 +1,5 @@
+#TC: O(n) for all operations
+#SC: O(n) where n is the number of elements in the list
 class ListNode:
     """
     A node in a singly-linked list.
